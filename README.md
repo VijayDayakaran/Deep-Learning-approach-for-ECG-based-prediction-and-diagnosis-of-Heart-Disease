@@ -1,1 +1,3 @@
-The study presents a hybrid model that combine convolutional Neural Networks (CNN) with K-Nearest Neighbors (KNN) to predict heart disease using ECG data. The CNN extra at robust features from FCG Signals, which are then classified by the KNN algorithm. Evaluated on publicly available ECG dataset, the model demonstrates improved production accuracy, offering a promising non-invasive approach for early heart disease diagnosis
+This study introduces a hybrid machine learning model that combines Convolutional Neural Networks (CNN) with K-Nearest Neighbors (KNN) to predict heart disease from ECG (Electrocardiogram) data. The CNN component is responsible for extracting robust features from the ECG signals, which are subsequently classified by the KNN algorithm.
+
+The model is evaluated on a publicly available ECG dataset and demonstrates improved predictive accuracy. This approach presents a promising, non-invasive method for early detection of heart disease.
